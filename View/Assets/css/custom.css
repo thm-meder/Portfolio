@@ -1,0 +1,24 @@
+.object-non-visible{
+    opacity:0;
+}
+
+#map {
+     width: 100%;
+     height: 660px;
+ }
+
+#mapBack {
+    width: 750px;
+    height: 500px;
+}
+
+#box-skills{
+    width: 400px;
+    height: 350px;
+    padding: 20px;
+}
+
+#skills, #projects, #company, #contact {
+    padding-top: 50px;
+    margin-top: -50px;
+}

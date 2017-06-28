@@ -1,0 +1,8 @@
+User-agent: *
+Disallow: /bootstrap/
+Disallow: /css/
+Disallow: /fonts/
+Disallow: /images/
+Disallow: /js/
+Disallow: /plugins/
+Sitemap: http://www.thm-meder.fr/sitemap.xml

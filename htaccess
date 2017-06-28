@@ -1,0 +1,7 @@
+ErrorDocument 400 "Woops! Seems like the HTTP analysis failed. Please try again later."
+ErrorDocument 403 "Woops! Seems like the request was not supported. Go back and try again."
+ErrorDocument 404 "Woops! Seems like the page was not found!... Which is strange because there is only one page. Please try again at thm-meder.fr . If the problem persist, please contact me at thm.meder@gmail.com ."
+ErrorDocument 500 "Woops! Seems that the OVH servers are saturated! Please try again later."
+ErrorDocument 501 "Woops! Seems that the server doesn't support the website! If you encounter this problem, please contact me at thm.meder@gmail.com ."
+ErrorDocument 503 "Woops! Seems that the website is currently unavailable! Please try again later."
+ErrorDocument 504 "Woops! Seems like the server took too much time to answer! Please try again later."
